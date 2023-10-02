@@ -48,7 +48,7 @@ background-size: cover;
 
  /*container-parallax 1*/
  .container-parallax1 {
-    background-image: url(imagem1.png);
+    background-image: url(https://github.com/jordanrafaell/Cafeteria.github.io/assets/61181764/b9e885a1-17f3-4d10-a1f8-6faa76387c29);
     height: 100vh;
  }
 
@@ -68,7 +68,7 @@ background-size: cover;
  /*container-parallax 2*/
 
  .container-parallax2{
-    background-image: url(imagem2.jpg);
+    background-image: url(https://github.com/jordanrafaell/Cafeteria.github.io/assets/61181764/95491b12-be7f-4f2e-8a3f-10b3a9754600);
     height: 50vh;
  }
 
@@ -97,13 +97,13 @@ background-size: cover;
 
  /*container parallax 3*/
  .container-parallax3{
-    background-image: url(imagem3.jpg);
+    background-image: url(https://github.com/jordanrafaell/Cafeteria.github.io/assets/61181764/3d7290db-fe72-412b-b683-bc4d4e600b87);
     height: 50vh;
  }
 
  /*container parallax 4*/
  .container-parallax4{
-    background-image: url(imagem4.jpg);
+    background-image: url(https://github.com/jordanrafaell/Cafeteria.github.io/assets/61181764/47ca359c-c063-46a7-b1f5-a98545f7f75b);
     height: 50vh;
  }
 
@@ -184,7 +184,7 @@ background-size: cover;
 /*container parallax 5*/
  .container-parallax5 {
     height: 85vh;
-    background-image: url(layout-pagina-cafeteria.png);
+    background-image: url(https://github.com/jordanrafaell/Cafeteria.github.io/assets/61181764/95150a61-5ed9-45e5-9fe0-9d3d80f7a500);
  }
 
 
@@ -281,7 +281,7 @@ background-size: cover;
     bottom: 80px;
     right: 50px;
 
-    background: url(seta-para-cima.png) center cover #c4a47c 4px;
+    background: url(https://github.com/jordanrafaell/Cafeteria.github.io/assets/61181764/5aa7b5ce-c9c5-4140-9f78-76d85d4f9781) center cover #c4a47c 4px;
 }
 
  
